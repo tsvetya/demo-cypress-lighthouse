@@ -1,0 +1,8 @@
+reporter/
+*.log
+npm-debug.log*
+node_modules/
+reporter/
+.npm
+.idea/
+**/.DS_Store
